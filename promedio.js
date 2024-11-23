@@ -13,4 +13,4 @@ const promedio = promedioNotas(notas);//se almacena el prodemio de notas
 //const redondeado = Math.round(numero * 100) / 100;  // Redondea a 2 decimales
 const promedio_redondeado1 = promedio.toFixed(1);//se redondea a un decimal
 
-console.log("Promedio:", promedio_redondeado1);  // Promedio: 7.5
+console.log("Promedio:", promedio_redondeado1);  // Promedio: 7.5.
